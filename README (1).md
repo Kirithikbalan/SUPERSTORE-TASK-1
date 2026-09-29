@@ -150,7 +150,7 @@ Cleaned and Transformed Dataset
 
 👩‍💻 Author
 
-Madhumidha E
+KIRITHIK BALAN
 
 Project: Superstore Sales Data Cleaning and Transformation
 Tool: Microsoft Power BI
